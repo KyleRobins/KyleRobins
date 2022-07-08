@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm KyleRobins</h1>
 <h3 align="center">A junior fullstack developer from kenya</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://twitter.com/spidertechtips" target="blank"><img src="https://img.shields.io/twitter/follow/spidertechtips?logo=twitter&style=for-the-badge" alt="spidertechtips" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dev_KyleRobins" target="blank"><img src="https://img.shields.io/twitter/follow/dev_KyleRobins?logo=twitter&style=for-the-badge" alt="dev_KyleRobins" /></a> </p>
 
 - 🔭 I’m currently working on [Alx SE Fullstack](https://alx-intranet.hbtn.io/)
 
