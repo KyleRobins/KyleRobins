@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [elit.co.ke](elit.co.ke)
 
-- 💬 Ask me about **react,flutter,javascript**
+- 💬 Ask me about **React js,Flutter,Dart,Javascript**
 
 - 📫 How to reach me **robinsmicky@gmail.com**
 
