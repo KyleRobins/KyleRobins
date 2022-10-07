@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/dev_KyleRobins" target="blank"><img src="https://img.shields.io/twitter/follow/dev_KyleRobins?logo=twitter&style=for-the-badge" alt="dev_KyleRobins" /></a> </p>
 
-- 🔭 I’m currently working on [Alx SE Fullstack](https://alx-intranet.hbtn.io/)
+- 🔭 I’m currently working on [ElitWear](https://shop.elit.co.ke/)
 
 - 🌱 I’m currently learning **Fullstack Dev,React,Flutter**
 
@@ -12,9 +12,9 @@
 
 - 🤝 I’m looking for help with [Eastmart](https://eastmart.co.ke)
 
-- 👨‍💻 All of my projects are availablee at [me.darkspidertech.co.ke](me.darkspidertech.co.ke)
+- 👨‍💻 All of my projects are availablee at [portfolio.elit.co.ke](portfolio.elit.co.ke)
 
-- 📝 I regularly write articles on [darkspidertech.co.ke](darkspidertech.co.ke)
+- 📝 I regularly write articles on [elit.co.ke](elit.co.ke)
 
 - 💬 Ask me about **react,flutter,javascript**
 
