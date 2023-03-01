@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with [Eastmart](https://eastmart.co.ke)
 
-- 👨‍💻 All of my projects are availablee at [portfolio.elit.co.ke](portfolio.elit.co.ke)
+- 👨‍💻 All of my projects are available at [portfolio.elit.co.ke](portfolio.elit.co.ke)
 
-- 📝 I regularly write articles on [elit.co.ke](elit.co.ke)
+- 📝 I regularly write articles at [elit.co.ke](elit.co.ke)
 
 - 💬 Ask me about **React js,Flutter,Dart,Javascript**
 
-- 📫 How to reach me **robinsmicky@gmail.com**
+- 📫 How to reach me [robinsmicky@gmail.com](mailto:robinsmicky@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
