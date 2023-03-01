@@ -1,7 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/dzw5pskk1/image/upload/v1655938968/samples/spidy/banner_qpcwfb.png)](https://darkspidertech.co.ke)
+[![MasterHead](https://res.cloudinary.com/dzw5pskk1/image/upload/v1655938968/samples/spidy/banner_qpcwfb.png)](https://elit.co.ke)
 <h1 align="center">Hi 👋, I'm KyleRobins</h1>
 <h3 align="center">A junior fullstack developer from kenya</h3>
-<img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/dfw3cxpn7/video/upload/v1677668846/dev1_ktkm1a.mp4">
+<img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/dfw3cxpn7/image/upload/v1677669212/dev1_dvhlts.gif">
 <p align="left"> <a href="https://twitter.com/dev_KyleRobins" target="blank"><img src="https://img.shields.io/twitter/follow/dev_KyleRobins?logo=twitter&style=for-the-badge" alt="dev_KyleRobins" /></a> </p>
 
 - 🔭 I’m currently working on [ElitWear](https://shop.elit.co.ke/)
