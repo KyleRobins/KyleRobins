@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ElitWear](https://shop.elit.co.ke/)
 
-- 🌱 I’m currently learning **Fullstack Dev,React,Flutter**
+- 🌱 I’m currently learning **Fullstack Development & Mobile Development**
 
 - 👯 I’m looking to collaborate on [Eastmart](https://eastmart.co.ke)
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles at [elit.co.ke](elit.co.ke)
 
-- 💬 Ask me about **React js,Flutter,Dart,Javascript**
+- 💬 Ask me about **React js, Flutter, Dart, Javascript, Wordpress**
 
 - 📫 How to reach me [enquiry@elit.co.ke](mailto:enquiry@elit.co.ke)
 
