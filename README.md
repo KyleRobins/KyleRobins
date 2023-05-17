@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/dfw3cxpn7/image/upload/v1677669212/dev1_dvhlts.gif">
 <p align="left"> <a href="https://twitter.com/dev_KyleRobins" target="blank"><img src="https://img.shields.io/twitter/follow/dev_KyleRobins?logo=twitter&style=for-the-badge" alt="dev_KyleRobins" /></a> </p>
 
-- 🔭 I’m currently working on [ElitWear](https://shop.elit.co.ke/)
+- 🔭 I’m currently working on [ElitWear](https://shop.elit.co.ke/), [Eastmart](https://eastmart.africa/), [Elitco](https://elit.co.ke/)
 
 - 🌱 I’m currently learning **Fullstack Development & Mobile Development**
 
@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with [Eastmart](https://eastmart.co.ke)
 
-- 👨‍💻 All of my projects are available at [portfolio.elit.co.ke](portfolio.elit.co.ke)
+- 👨‍💻 All of my projects are available at [KyleRobins](https://kylerobins.com)
 
-- 📝 I regularly write articles at [elit.co.ke](elit.co.ke)
+- 📝 I regularly write articles at [Elitco.](elit.co.ke), [Blog](https://kylerobins.com/blog)
 
-- 💬 Ask me about **React js, Flutter, Dart, Javascript, Wordpress**
+- 💬 Ask me about **React js, Flutter, Dart, Javascript, Wordpress, Figma, Adobe Illustrator, Photoshop**
 
 - 📫 How to reach me [enquiry@elit.co.ke](mailto:enquiry@elit.co.ke)
 
