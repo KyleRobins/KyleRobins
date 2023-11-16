@@ -22,8 +22,8 @@ I'm a kenyan full-stack developer and content creator with a vision of building 
          <img alt="Devops Prerequisites" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161423/kodekloud_djv2ht.png"/>Verify</a>
          <a href="https://www.credential.net/e09d4d45-9b4e-46f0-9d84-715069c57760">
          <img alt="Java Developer" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161428/develhope_jcuvda.png"/>Verify</a>
-         <a href="https://kodekloud.com/">
-         <img alt="Devops Prerequisites" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700160632/google-cloud_zjjoa4.png"/>Verify</a>
+         <a href="https://www.cloudskillsboost.google/profile/badges">
+         <img alt="Devops Prerequisites" title="Google Badges" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700160632/google-cloud_zjjoa4.png"/>Verify</a>
          
    </p>
 
