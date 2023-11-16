@@ -1,8 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/dfw3cxpn7/image/upload/v1686554338/header_ivhzfc.png)](https://elit.co.ke)
 <h1 align="center">Hi 👋, I'm Kyle Robins</h1>
 <h3 align="center">A Devops Engineer / Junior Backend Developer / Front-end Engineer</h3>
+<img align="right" alt="Coding" width="400" src= "https://res.cloudinary.com/dfw3cxpn7/image/upload/v1677669212/dev1_dvhlts.gif">
+<p align="left"> <a href="https://twitter.com/_KyleRobins" target="blank"><img src="https://img.shields.io/twitter/follow/_KyleRobins?logo=twitter&style=for-the-badge" alt="dev_KyleRobins" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kylerobins&label=Profile%20views&color=0e75b6&style=flat" alt="kylerobins" /> </p>
 
 - 🔭 I’m currently working on [Elitcode Academy](https://learning.elit.co.ke)
 
@@ -39,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylerobins&show_icons=true&locale=en" alt="kylerobins" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylerobins&" alt="kylerobins" /></p>
+
+
