@@ -35,7 +35,10 @@ I'm a kenyan full-stack developer and content creator with a vision of building 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Aws Ec2 Instances | Getting Started with AWS EC2: SSH and Docker Setup Tutorial](https://ytcards.demolab.com/?id=uCoafmtLTZk&title=Aws+Ec2+Instances+%7C+Getting+Started+with+AWS+EC2%3A+SSH+and+Docker+Setup+Tutorial&lang=en&timestamp=1699873014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693 "Aws Ec2 Instances | Getting Started with AWS EC2: SSH and Docker Setup Tutorial")](https://www.youtube.com/watch?v=uCoafmtLTZk)
+[![Getting Started in Bug bounty Scope Based Recon  (Bug Bounty KE)](https://ytcards.demolab.com/?id=gXmo-GnQifY&title=Getting+Started+in+Bug+bounty+Scope+Based+Recon++%28Bug+Bounty+KE%29&lang=en&timestamp=1617878896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2900 "Getting Started in Bug bounty Scope Based Recon  (Bug Bounty KE)")](https://www.youtube.com/watch?v=gXmo-GnQifY)
+[![Top 10 Free Sites  To Learn Hacking (2023)](https://ytcards.demolab.com/?id=E8mEPHsbcs0&title=Top+10+Free+Sites++To+Learn+Hacking+%282023%29&lang=en&timestamp=1615780289&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=532 "Top 10 Free Sites  To Learn Hacking (2023)")](https://www.youtube.com/watch?v=E8mEPHsbcs0)
+[![How to Install Kali Linux  2021.2 in a virtual box in Windows 10 20H2  (latest version)](https://ytcards.demolab.com/?id=W0ngyQlANdk&title=How+to+Install+Kali+Linux++2021.2+in+a+virtual+box+in+Windows+10+20H2++%28latest+version%29&lang=en&timestamp=1615608081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=666 "How to Install Kali Linux  2021.2 in a virtual box in Windows 10 20H2  (latest version)")](https://www.youtube.com/watch?v=W0ngyQlANdk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@kylerobins?sub_confirmation=1)
