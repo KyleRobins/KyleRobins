@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Kyle Robins 🌩️
 
-**`Digital Nomad ( A Developer who can actaully create graphics and logics(Fullstack🤓)/Cloud Architect/Creator)`**
+**`Digital Nomad ( A Developer who can actually create graphics and logic (Fullstack🤓)/Cloud Architect/Creator)`**
 
-I'm a kenyan full-stack developer and content creator with a vision of building my version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers.(Walk Slow but sure 🔔)
+I'm a Kenyan full-stack developer and content creator with a vision of building my version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers. (Walk Slow but sure 🔔)
 
    <p align="left">
       <a href="https://www.youtube.com/@kylerobins?sub_confirmation=1">
@@ -18,12 +18,12 @@ I'm a kenyan full-stack developer and content creator with a vision of building 
 ---
 ### 🎓 Certifications👨🏾‍🎓
 <p align="left">
-      <a href="hhttps://kodekloud.com/certificate-verification/2D143DA0D273-2D14379B604B-2D14376DC1CB/">
+      <a href="https://kodekloud.com/certificate-verification/2D143DA0D273-2D14379B604B-2D14376DC1CB/">
          <img alt="Devops Prerequisites" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161423/kodekloud_djv2ht.png"/>Verify</a>
          <a href="https://www.credential.net/e09d4d45-9b4e-46f0-9d84-715069c57760">
          <img alt="Java Developer" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161428/develhope_jcuvda.png"/>Verify</a>
-         <a href="https://kodekloud.com/">
-         <img alt="Devops Prerequisites" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700160632/google-cloud_zjjoa4.png"/>Verify</a>
+         <a href="https://www.cloudskillsboost.google/profile/badges">
+         <img alt="Devops Prerequisites" title="Google Badges" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700160632/google-cloud_zjjoa4.png"/>Verify</a>
          
    </p>
 
@@ -35,7 +35,10 @@ I'm a kenyan full-stack developer and content creator with a vision of building 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Aws Ec2 Instances | Getting Started with AWS EC2: SSH and Docker Setup Tutorial](https://ytcards.demolab.com/?id=uCoafmtLTZk&title=Aws+Ec2+Instances+%7C+Getting+Started+with+AWS+EC2%3A+SSH+and+Docker+Setup+Tutorial&lang=en&timestamp=1699873014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=693 "Aws Ec2 Instances | Getting Started with AWS EC2: SSH and Docker Setup Tutorial")](https://www.youtube.com/watch?v=uCoafmtLTZk)
+[![Getting Started in Bug bounty Scope Based Recon  (Bug Bounty KE)](https://ytcards.demolab.com/?id=gXmo-GnQifY&title=Getting+Started+in+Bug+bounty+Scope+Based+Recon++%28Bug+Bounty+KE%29&lang=en&timestamp=1617878896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2900 "Getting Started in Bug bounty Scope Based Recon  (Bug Bounty KE)")](https://www.youtube.com/watch?v=gXmo-GnQifY)
+[![Top 10 Free Sites  To Learn Hacking (2023)](https://ytcards.demolab.com/?id=E8mEPHsbcs0&title=Top+10+Free+Sites++To+Learn+Hacking+%282023%29&lang=en&timestamp=1615780289&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=532 "Top 10 Free Sites  To Learn Hacking (2023)")](https://www.youtube.com/watch?v=E8mEPHsbcs0)
+[![How to Install Kali Linux  2021.2 in a virtual box in Windows 10 20H2  (latest version)](https://ytcards.demolab.com/?id=W0ngyQlANdk&title=How+to+Install+Kali+Linux++2021.2+in+a+virtual+box+in+Windows+10+20H2++%28latest+version%29&lang=en&timestamp=1615608081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=666 "How to Install Kali Linux  2021.2 in a virtual box in Windows 10 20H2  (latest version)")](https://www.youtube.com/watch?v=W0ngyQlANdk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@kylerobins?sub_confirmation=1)
