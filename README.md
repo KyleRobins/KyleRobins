@@ -1,8 +1,8 @@
 # 👨🏾‍💻 Kyle Robins 🌩️
 
-**`Digital Nomad ( A Developer who can actaully create graphics and logics(Fullstack🤓)/Cloud Architect/Creator)`**
+**`Digital Nomad ( A Developer who can actually create graphics and logic (Fullstack🤓)/Cloud Architect/Creator)`**
 
-I'm a kenyan full-stack developer and content creator with a vision of building my version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers.(Walk Slow but sure 🔔)
+I'm a Kenyan full-stack developer and content creator with a vision of building my version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers. (Walk Slow but sure 🔔)
 
    <p align="left">
       <a href="https://www.youtube.com/@kylerobins?sub_confirmation=1">
@@ -18,7 +18,7 @@ I'm a kenyan full-stack developer and content creator with a vision of building 
 ---
 ### 🎓 Certifications👨🏾‍🎓
 <p align="left">
-      <a href="hhttps://kodekloud.com/certificate-verification/2D143DA0D273-2D14379B604B-2D14376DC1CB/">
+      <a href="https://kodekloud.com/certificate-verification/2D143DA0D273-2D14379B604B-2D14376DC1CB/">
          <img alt="Devops Prerequisites" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161423/kodekloud_djv2ht.png"/>Verify</a>
          <a href="https://www.credential.net/e09d4d45-9b4e-46f0-9d84-715069c57760">
          <img alt="Java Developer" title="Offered by KodeKloud" src="https://res.cloudinary.com/dfw3cxpn7/image/upload/v1700161428/develhope_jcuvda.png"/>Verify</a>
