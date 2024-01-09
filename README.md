@@ -2,7 +2,7 @@
 
 **`Digital Nomad ( A Developer who can actually create graphics and logic (Fullstack🤓)/Cloud Architect/Creator)`**
 
-I'm a Kenyan full-stack developer/content creator with a vision of building my version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers. (Walk Slow but sure 🔔)
+I'm a Kenyan full-stack developer/content creator with a vision of building my own version of the digital world one step at a time. Also Making learning fun through content creation. From ideation and planning to a published video, I publish content on my YouTube channel "[Kyle Robins][youtube]" road to 500 subscribers. (Walk Slow but sure 🔔)
 
    <p align="left">
       <a href="https://www.youtube.com/@kylerobins?sub_confirmation=1">
